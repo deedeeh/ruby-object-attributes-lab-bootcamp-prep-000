@@ -20,5 +20,5 @@ ashley = Person.new
 
 ashley.name = "Ashley"
 ashley.job = "Web Developer"
-puts ashley.name
+puts "Hello, my name is #{ashley.name} and I am a #{ashley.job}."
 
