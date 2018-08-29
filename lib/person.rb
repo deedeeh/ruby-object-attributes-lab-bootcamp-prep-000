@@ -15,3 +15,5 @@ class Person
     @job
   end
 end
+
+ashley = Person.new("Ashley")
