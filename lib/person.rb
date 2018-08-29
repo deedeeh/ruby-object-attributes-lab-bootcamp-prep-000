@@ -19,4 +19,6 @@ end
 ashley = Person.new
 
 ashley.name = "Ashley"
+ashley.job = "Web Developer"
 puts ashley.name
+
