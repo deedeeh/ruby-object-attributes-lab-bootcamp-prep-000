@@ -16,6 +16,7 @@ class Person
   end
 end
 
-ashley = Person.new("Ashley")
+ashley = Person.new
 
+ashley.name = "Ashley"
 puts ashley.name
