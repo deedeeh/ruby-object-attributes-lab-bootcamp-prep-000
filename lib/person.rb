@@ -17,3 +17,5 @@ class Person
 end
 
 ashley = Person.new("Ashley")
+
+ashley.name
