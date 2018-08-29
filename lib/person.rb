@@ -16,6 +16,7 @@ class Person
   end
 end
 
+#extra work 
 ashley = Person.new
 
 ashley.name = "Ashley"
