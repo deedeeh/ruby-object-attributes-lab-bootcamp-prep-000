@@ -18,4 +18,4 @@ end
 
 ashley = Person.new("Ashley")
 
-ashley.name
+puts ashley.name
